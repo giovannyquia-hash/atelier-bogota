@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Bogotá - Alta Costura & Sastrería VIP a Domicilio",
+  "description": "Ecosistema tipo Uber para alta costura y arreglos de lujo a domicilio en Bogotá. Incluye App Cliente VIP con ficha de medidas permanente, App de Sastre calificado con cotizador y ruta GPS, y Central Administrativa con motor de comisiones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
